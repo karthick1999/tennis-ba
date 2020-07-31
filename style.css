@@ -1,0 +1,16 @@
+ *{
+     background-color: coral;
+ } 
+ p{
+     text-align: center; 
+     font-family: cursive; 
+     font-size: larger;
+ }
+ #gamecanvas{
+    height: 50%; 
+    width: 90%; 
+    margin: 20px; 
+    margin-left:45px;  
+    margin-bottom:0px; 
+    margin-top: 0px;
+}
